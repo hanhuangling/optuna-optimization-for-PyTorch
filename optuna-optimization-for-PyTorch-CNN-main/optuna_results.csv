@@ -1,0 +1,2 @@
+number,value,params_drop_conv2,params_drop_fc1,params_lr,params_num_conv_layers,params_num_filter_0,params_num_filter_1,params_num_neurons,params_optimizer
+0,0.00559999980032444,0.3122214885067271,0.2593507519218949,0.0017393583594102356,2,48.0,16.0,270,SGD
